@@ -1,5 +1,5 @@
-<h1 align="center">Hi 🚀, I'm Hiza Aliza Gaizka</h1>
-- 🌱 I’m currently learning **React JS**
+<h1 align="center">Hi 🚀 I'm Hiza Aliza Gaizka</h1>
+- 🌱 I’m currently learning React JS
 <br>
 - 🌱 I'm currently improve my skills in ReactJS and try to build project by myself
 
